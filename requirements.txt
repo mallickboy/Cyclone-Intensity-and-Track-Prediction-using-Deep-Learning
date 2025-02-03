@@ -1,0 +1,8 @@
+tensorflow  
+pytorch  
+numpy  
+pandas  
+matplotlib  
+opencv-python  
+yolov10  
+ultralytics  
